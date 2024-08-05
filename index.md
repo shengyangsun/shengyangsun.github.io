@@ -8,12 +8,12 @@ I am currently a Ph.D. student at Zhejiang University, specializing in Informati
 
 ## Research Interests
 
-- **Computer Vision:** video understanding, video anomaly detection, multimodal large language model
+- **Computer Vision:** video understanding, video anomaly detection, multimodal fusion, multimodal large language model
 - **Machine Learning:** unsupervised learning, weakly supervised learning
 
 ## News
 
-- **[Jul. 2024]** Our paper about Text-Driven Scene-Decoupled (TDSD) Weakly Supervised Video Anomaly Detection has been accepted to ACM Multimedia 2024. 
+- **[Jul. 2024]** Our paper about Text-Driven Scene-Decoupled (TDSD) Weakly Supervised Video Anomaly Detection has been accepted to ACM Multimedia (MM) 2024. 
 - **[Jul. 2024]** Our paper about Event-Driven Weakly Supervised Video Anomaly Detection has been accepted to Image and Vision Computing.
 - **[May 2024]** We release the code of [Multi-scale Bottleneck Transformer (MSBT)](https://github.com/shengyangsun/MSBT), we encourage you to integrate the MSBT module into your framework to enhance the performance of feature fusion.
 - **[Mar. 2024]** Our paper about MultiScale Bottleneck Transformer (MSBT) has been accepted to IEEE International Conference on Multimedia and Expo (ICME) 2024.
