@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection"
+    authors: <strong>Shengyang Sun</strong>, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
+    conference_short: ACM MM
+    conference: ACM Multimedia <strong>(ACM MM)</strong>, 2024.
+    pdf: https://openreview.net/pdf?id=TAVtkpjS9P
+    code: https://github.com/shengyangsun/TDSD
+    bibtex: https://openreview.net/forum?id=TAVtkpjS9P#
+    image: ./assets/img/TDSD_thumbnail.png
+    #notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Multi-scale Bottleneck Transformer for Weakly Supervised Multimodal Violence Detection"
+    authors: <strong>Shengyang Sun</strong>, Xiaojin Gong
+    conference_short: ICME
+    conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2405.05130
+    code: https://github.com/shengyangsun/MSBT
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: ./assets/img/MSBT_thumbnail.png
