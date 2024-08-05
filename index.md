@@ -23,4 +23,6 @@ I am currently a Ph.D. student at Zhejiang University, specializing in Informati
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/peer_reviewed.md %}
+
 {% include_relative _includes/services.md %}
