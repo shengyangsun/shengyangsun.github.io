@@ -6,9 +6,20 @@ main:
     conference: ACM Multimedia <strong>(ACM MM)</strong>, 2024.
     pdf: https://openreview.net/pdf?id=TAVtkpjS9P
     code: https://github.com/shengyangsun/TDSD
-    bibtex: https://openreview.net/forum?id=TAVtkpjS9P#
+    #bibtex: https://openreview.net/forum?id=TAVtkpjS9P#
     image: ./assets/img/TDSD_thumbnail.png
     #notes: Early Accept
+
+  - title: "Event-driven Weakly Supervised Video Anomaly Detection"
+    authors: <strong>Shengyang Sun</strong>, Xiaojin Gong
+    conference_short: IVC
+    conference: Image and Vision Computing <strong>(IVC)</strong>, 2024.
+    #pdf: https://arxiv.org/pdf/2405.05130
+    #code: https://github.com/shengyangsun/MSBT
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: ./assets/img/Event_thumbnail.png    
 
   - title: "Multi-scale Bottleneck Transformer for Weakly Supervised Multimodal Violence Detection"
     authors: <strong>Shengyang Sun</strong>, Xiaojin Gong
@@ -20,3 +31,25 @@ main:
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
     image: ./assets/img/MSBT_thumbnail.png
+
+  - title: "Hierarchical semantic contrast for scene-aware video anomaly detection"
+    authors: <strong>Shengyang Sun</strong>, Xiaojin Gong
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    pdf: http://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Hierarchical_Semantic_Contrast_for_Scene-Aware_Video_Anomaly_Detection_CVPR_2023_paper.pdf
+    code: https://github.com/shengyangsun/HSC_VAD
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: ./assets/img/HSC_thumbnail.png
+
+  - title: "Long-Short Temporal Co-Teaching for Weakly Supervised Video Anomaly Detection"
+    authors: <strong>Shengyang Sun</strong>, Xiaojin Gong
+    conference_short: ICME
+    conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2303.18044
+    code: https://github.com/shengyangsun/LSTC_VAD
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: ./assets/img/LSTC_thumbnail.png
