@@ -18,6 +18,7 @@ Electronic Synaptic Devices". Neurocomputing, 2020</autocolor></li>
   <li><autocolor><strong>Shengyang Sun</strong>, et al. "Cascaded architecture for memristor crossbar array based larger-scale neuromorphic computing". IEEE Access, 2019</autocolor></li>
   <li><autocolor><strong>Shengyang Sun</strong>, et al. "A memristor-based convolutional neural network with full parallelization architecture". IEICE Electronics Express, 2019</autocolor></li>
   <li><autocolor><strong>Shengyang Sun</strong>, et al. "Quaternary synapses network for memristor-based spiking convolutional neural networks". IEICE Electronics Express, 2019</autocolor></li>
-  <li><autocolor><strong>Shengyang Sun</strong>, et al. "Cascaded neural network for memristor based neuromorphic computing". IEEE Access, 2018</autocolor></li>
+  <li><autocolor><strong>Shengyang Sun</strong>, et al. "Cases study of inputs split based calibration method for RRAM crossbar". IEEE Access, 2019</autocolor></li>
+  <li><autocolor><strong>Shengyang Sun</strong>, et al. "Cascaded neural network for memristor based neuromorphic computing". IEEE International Joint Conference on Neural Networks (IJCNN), 2019</autocolor></li>
   <li><autocolor><strong>Shengyang Sun</strong>, et al. "Low-consumption neuromorphic memristor architecture based on convolutional neural networks". IEEE International Joint Conference on Neural Networks (IJCNN), 2018</autocolor></li>
 </ul>
