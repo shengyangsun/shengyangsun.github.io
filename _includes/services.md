@@ -16,5 +16,6 @@
   <li><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></li>
   <li><autocolor>IEEE Signal Processing Letters (SPL)</autocolor></li>
   <li><autocolor>IEEE Access</autocolor></li>
+  <li><autocolor>Pattern Recognition</autocolor></li>
   <li><autocolor>Neurocomputing</autocolor></li>
 </ul>
