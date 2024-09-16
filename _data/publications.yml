@@ -1,5 +1,15 @@
 main:
 
+  - title: "Delving into Instance Modeling for Weakly Supervised Video Anomaly Detection"
+    authors: <strong>Shengyang Sun</strong>, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
+    #conference_short: ACM MM
+    #conference: ACM Multimedia <strong>(ACM MM)</strong>, 2024.
+    #pdf: https://openreview.net/pdf?id=TAVtkpjS9P
+    #code: https://github.com/shengyangsun/TDSD
+    #bibtex: https://openreview.net/forum?id=TAVtkpjS9P#
+    image: ./assets/img/DM_thumbnail.png
+    notes: Under Review
+
   - title: "TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection"
     authors: <strong>Shengyang Sun</strong>, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
     conference_short: ACM MM
@@ -14,7 +24,7 @@ main:
     authors: <strong>Shengyang Sun</strong>, Xiaojin Gong
     conference_short: IVC
     conference: Image and Vision Computing <strong>(IVC)</strong>, 2024.
-    #pdf: https://arxiv.org/pdf/2405.05130
+    pdf: https://www.sciencedirect.com/science/article/pii/S0262885624002749
     #code: https://github.com/shengyangsun/MSBT
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
