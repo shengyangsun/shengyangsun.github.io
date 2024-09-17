@@ -2,8 +2,8 @@ main:
 
   - title: "Delving into Instance Modeling for Weakly Supervised Video Anomaly Detection"
     authors: <strong>Shengyang Sun</strong>, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
-    #conference_short: ACM MM
-    #conference: ACM Multimedia <strong>(ACM MM)</strong>, 2024.
+    conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>.
     #pdf: https://openreview.net/pdf?id=TAVtkpjS9P
     #code: https://github.com/shengyangsun/TDSD
     #bibtex: https://openreview.net/forum?id=TAVtkpjS9P#
