@@ -1,5 +1,15 @@
 main:
 
+  - title: "Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Textual Guidance"
+    authors: <strong>Shengyang Sun</strong>, Jiashen Hua, Junyi Feng, Xiaojin Gong
+    conference_short: TMM
+    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>.
+    #pdf: https://openreview.net/pdf?id=TAVtkpjS9P
+    #code: https://github.com/shengyangsun/TDSD
+    #bibtex: https://openreview.net/forum?id=TAVtkpjS9P#
+    image: ./assets/img/TGMVAD_thumbnail.png
+    notes: Under Review
+
   - title: "Delving into Instance Modeling for Weakly Supervised Video Anomaly Detection"
     authors: <strong>Shengyang Sun</strong>, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
     conference_short: TCSVT
