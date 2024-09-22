@@ -6,6 +6,7 @@ main:
     conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>.
     #pdf: https://openreview.net/pdf?id=TAVtkpjS9P
     #code: https://github.com/shengyangsun/TDSD
+    page: https://shengyangsun.github.io/TGMVAD
     #bibtex: https://openreview.net/forum?id=TAVtkpjS9P#
     image: ./assets/img/TGMVAD_thumbnail.png
     notes: Under Review
