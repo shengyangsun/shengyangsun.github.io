@@ -9,10 +9,11 @@ I am currently a Ph.D. student at Zhejiang University, specializing in Informati
 ## Research Interests
 
 - **Computer Vision:** video understanding, video anomaly detection, multimodal fusion, multimodal large language model
-- **Machine Learning:** unsupervised learning, weakly supervised learning
+- **Machine Learning:** unsupervised learning, weakly supervised learning, outlier detection
 
 ## News
 
+- **[Sep. 2024]** We are thrilled to introduce our newly proposed **Textual-Guided Multimodal Video Anomaly Detection (TG-MVAD)** framework! In this work, we incorporate in-context learning to generate high-quality textual samples, resulting in a more adaptive text feature extractor tailored for anomaly detection. By utilizing this fine-tuned feature extractor, we significantly enhance the model’s detection capabilities while also improving the explainability of the detection results. This project is publicly available at [https://shengyangsun.github.io/TGMVAD](https://shengyangsun.github.io/TGMVAD), <span style="color:red">[click here](https://shengyangsun.github.io/TGMVAD)</span>!
 - **[Jul. 2024]** Our paper about Text-Driven Scene-Decoupled (TDSD) Weakly Supervised Video Anomaly Detection has been accepted to ACM Multimedia (MM) 2024. 
 - **[Jul. 2024]** Our paper about Event-Driven Weakly Supervised Video Anomaly Detection has been accepted to Image and Vision Computing.
 - **[May 2024]** We release the code of [Multi-scale Bottleneck Transformer (MSBT)](https://github.com/shengyangsun/MSBT), we encourage you to integrate the MSBT module into your framework to enhance the performance of feature fusion.
