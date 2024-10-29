@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently a Ph.D. student at Zhejiang University, specializing in Information and Communication Engineering, with an expected graduation date in March 2025. I am passionate about research, and my interests lie in computer vision, video understanding, video anomaly detection, multimodal large language models, weakly supervised learning, deep learning, and machine learning.
 
-**I am looking for a postdoctoral position.**
+**I am looking for a _postdoctoral position_.**
 
 ## Research Interests
 
