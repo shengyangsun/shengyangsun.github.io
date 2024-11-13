@@ -14,6 +14,7 @@
 <ul style="margin:0 0 20px;">
   <li><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></li>
   <li><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></li>
+  <li><autocolor>IEEE Transactions on Multimedia (TMM)</autocolor></li>
   <li><autocolor>IEEE Signal Processing Letters (SPL)</autocolor></li>
   <li><autocolor>IEEE Access</autocolor></li>
   <li><autocolor>Pattern Recognition</autocolor></li>
