@@ -19,7 +19,7 @@ main:
     #code: https://github.com/shengyangsun/TDSD
     #bibtex: https://openreview.net/forum?id=TAVtkpjS9P#
     image: ./assets/img/DM_thumbnail.png
-    notes: Under Review
+    notes: Accept
 
   - title: "TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection"
     authors: <strong>Shengyang Sun</strong>, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
