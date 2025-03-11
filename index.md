@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. candidate at Zhejiang University, specializing in Information and Communication Engineering, with an expected graduation date in March 2025. I am passionate about research, and my interests lie in computer vision, video understanding, video anomaly detection, multimodal large language models, weakly supervised learning, deep learning, and machine learning.
+I received my Ph.D. from Zhejiang University, specializing in Information and Communication Engineering. I am passionate about research, and my interests lie in computer vision, video understanding, video anomaly detection, multimodal large language models, weakly supervised learning, deep learning, and machine learning.
 
 
 ## Research Interests
