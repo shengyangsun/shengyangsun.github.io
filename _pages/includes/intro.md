@@ -4,4 +4,4 @@ I received my Ph.D. degree in Information and Communication Engineering from the
 
 My current research interests include computer vision, anomaly detection, brain–computer interfaces, large language models, and the applications of artificial intelligence in healthcare.
 
-I am currently recruiting Master’s students (2026Fall). Whether your strengths lie in software or hardware, if you are passionate about tackling challenging problems and aspire to make a difference in the world, feel free to email me without hesitation
+I am currently recruiting Master’s students (2026Fall). Whether your strengths lie in software or hardware, if you are passionate about tackling challenging problems and aspire to make a difference in the world, feel free to email me without hesitation!
