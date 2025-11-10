@@ -5,7 +5,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/TGMVAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance] \\
+Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance \\
 **Shengyang Sun**, Jiashen Hua, Junyi Feng, Xiaojin Gong
 
 [**Project**](https://shengyangsun.github.io/TGMVAD/)
