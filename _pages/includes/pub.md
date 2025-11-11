@@ -70,3 +70,6 @@ Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guid
 - We employ a co-teaching strategy to train short- and long-term networks alternatively and iteratively. The two networks can explicitly learn from abnormal events with varying durations.
 </div>
 </div>
+
+- ``TMM 2025`` Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance], **Shengyang Sun**, Jiashen Hua, Junyi Feng, Xiaojin Gong
+- ``TCSVT 2025`` [Delving Into Instance Modeling for Weakly Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10908237), **Shengyang Sun**, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
