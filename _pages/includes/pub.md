@@ -23,3 +23,13 @@ Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guid
 - This is the first work to our knowledge that deliberately explores the issue of anomaly contamination and dilution along the temporal dimension, which is overlooked by prior MIL-based weakly-supervised video anomaly detection works.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/TDSD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection](https://openreview.net/pdf?id=TAVtkpjS9P) \\
+**Shengyang Sun**, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
+
+- This is the first work to address scene-dependent video anomaly detection under a weakly supervised setting.
+</div>
+</div>
