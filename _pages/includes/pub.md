@@ -33,3 +33,13 @@ Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guid
 - This is the first work to address scene-dependent video anomaly detection under a weakly supervised setting.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/MSBT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-scale Bottleneck Transformer for Weakly Supervised Multimodal Violence Detection](https://arxiv.org/pdf/2405.05130) \\
+**Shengyang Sun**, Xiaojin Gong
+
+- We propose a multi-scale bottleneck transformer (MSBT)-based fusion module. It leverages a reduced number of bottleneck tokens to transmit gradually condensed information from one modality to another and a bottleneck token-based weighting scheme to weight the fused features, effectively addressing the information redundancy and modality imbalance problems.
+</div>
+</div>
