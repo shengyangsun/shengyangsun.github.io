@@ -24,7 +24,7 @@ Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guid
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/TDSD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/HSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hierarchical semantic contrast for scene-aware video anomaly detection](http://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Hierarchical_Semantic_Contrast_for_Scene-Aware_Video_Anomaly_Detection_CVPR_2023_paper.pdf) \\
