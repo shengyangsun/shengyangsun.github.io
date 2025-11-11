@@ -17,7 +17,7 @@ Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guid
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/DSM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Delving Into Instance Modeling for Weakly Supervised Video Anomaly Detection] (https://ieeexplore.ieee.org/abstract/document/10908237) \\
+[Delving Into Instance Modeling for Weakly Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10908237) \\
 **Shengyang Sun**, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
 
 - This is the first work to our knowledge that deliberately explores the issue of anomaly contamination and dilution along the temporal dimension, which is overlooked by prior MIL-based weakly-supervised video anomaly detection works.
