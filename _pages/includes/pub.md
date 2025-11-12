@@ -71,6 +71,7 @@ Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guid
 </div>
 </div>
 
+## 🌟 Latest Works
 - `TMM 2025` [Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance](), **Shengyang Sun**, Jiashen Hua, Junyi Feng, Xiaojin Gong
 - ``TCSVT 2025`` [Delving Into Instance Modeling for Weakly Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10908237), **Shengyang Sun**, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
 - ``ACM MM 2024`` [TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection](https://openreview.net/pdf?id=TAVtkpjS9P), **Shengyang Sun**, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
