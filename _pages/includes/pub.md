@@ -74,3 +74,10 @@ Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guid
 - `TMM 2025` [Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance](), **Shengyang Sun**, Jiashen Hua, Junyi Feng, Xiaojin Gong
 - ``TCSVT 2025`` [Delving Into Instance Modeling for Weakly Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10908237), **Shengyang Sun**, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
 - ``ACM MM 2024`` [TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection](https://openreview.net/pdf?id=TAVtkpjS9P), **Shengyang Sun**, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
+- ``IVC 2024`` [Event-Driven Weakly Supervised Video Anomaly Detection](), **Shengyang Sun**, Xiaojin Gong
+- ``ICME 2024`` [Multi-scale Bottleneck Transformer for Weakly Supervised Multimodal Violence Detection](https://arxiv.org/pdf/2405.05130), **Shengyang Sun**, Xiaojin Gong
+- ``CVPR 2023`` [Hierarchical semantic contrast for scene-aware video anomaly detection](http://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Hierarchical_Semantic_Contrast_for_Scene-Aware_Video_Anomaly_Detection_CVPR_2023_paper.pdf), **Shengyang Sun**, Xiaojin Gong
+- ``ICME 2023`` [Long-Short Temporal Co-Teaching for Weakly Supervised Video Anomaly Detection](https://arxiv.org/pdf/2303.18044), **Shengyang Sun**, Xiaojin Gong
+- ``TCDS 2021`` [In Situ Learning in Hardware Compatible Multilayer Memristive Spiking Neural Network](), Jiwei Li, Hui Xu, **Shengyang Sun**, et al.
+- ``NEUROCOM 2021`` [In-situ Learning in Multilayer Locally-connected Memristive Spiking Neural Network](), Jiwei Li, Hui Xu, **Shengyang Sun**, et al.
+- ``TCS 2020`` [Binary Memristive Synapse based Vector Neural Network Architecture and its Application](), Haijun Liu, **Shengyang Sun**, et al.
