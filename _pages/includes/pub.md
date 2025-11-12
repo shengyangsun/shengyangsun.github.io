@@ -81,3 +81,7 @@ Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guid
 - ``TCDS 2021`` [In Situ Learning in Hardware Compatible Multilayer Memristive Spiking Neural Network](), Jiwei Li, Hui Xu, **Shengyang Sun**, et al.
 - ``NEUROCOM 2021`` [In-situ Learning in Multilayer Locally-connected Memristive Spiking Neural Network](), Jiwei Li, Hui Xu, **Shengyang Sun**, et al.
 - ``TCS 2020`` [Binary Memristive Synapse based Vector Neural Network Architecture and its Application](), Haijun Liu, **Shengyang Sun**, et al.
+- ``NEUROCOM 2020`` [Enhanced Spiking Neural Network with Forgetting Phenomenon based on Electronic Synaptic Devices](), Jiwei Li, Hui Xu, **Shengyang Sun**, et al.
+- ``Chinese Physics B 2020`` [Memristor-based vector neural network architecture](), Haijun Liu, Changlin Chen, Xi Zhu, **Shengyang Sun**, et al.
+- ``IJCNN 2019``[Cascaded neural network for memristor based neuromorphic computing](), **Shengyang Sun**, et al.
+- ``IJCNN 2018``[Low-consumption neuromorphic memristor architecture based on convolutional neural networks](), **Shengyang Sun**, et al.
