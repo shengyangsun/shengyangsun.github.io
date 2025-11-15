@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Shengyang Sun (孙盛阳)"
-description              : "[Associate Professor](https://faculty.hdu.edu.cn/jsjxy/ssy2/main.htm)"
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Associate Professor"
+repository               : "shengyangsun.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=uw6os3MAAAAJ"
   email            : "sunshy@hdu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://faculty.hdu.edu.cn/jsjxy/ssy2/main.htm"
   bitbucket        :
   codepen          :
   dribbble         :
