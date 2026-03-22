@@ -2,10 +2,10 @@
 ## 🏹 Selected Projects
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/TGMVAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/TGMVAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance \\
+[Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance](https://arxiv.org/pdf/2602.10549) \\
 **Shengyang Sun**, Jiashen Hua, Junyi Feng, Xiaojin Gong
 
 [**Project**](https://shengyangsun.github.io/TGMVAD/)
@@ -72,7 +72,7 @@ Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guid
 </div>
 
 ## 🌟 Latest Works
-- `TMM 2025` [Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance](), **Shengyang Sun**, Jiashen Hua, Junyi Feng, Xiaojin Gong
+- `TMM 2026` [Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance](https://arxiv.org/pdf/2602.10549), **Shengyang Sun**, Jiashen Hua, Junyi Feng, Xiaojin Gong
 - ``TCSVT 2025`` [Delving Into Instance Modeling for Weakly Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10908237), **Shengyang Sun**, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
 - ``ACM MM 2024`` [TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection](https://openreview.net/pdf?id=TAVtkpjS9P), **Shengyang Sun**, Jiashen Hua, Junyi Feng, Dongxu Wei, Baisheng Lai, Xiaojin Gong
 - ``IVC 2024`` [Event-Driven Weakly Supervised Video Anomaly Detection](), **Shengyang Sun**, Xiaojin Gong
