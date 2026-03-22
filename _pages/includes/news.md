@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.03*: 🎉 Our paper about Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance has been accepted to IEEE Transactions on Multimedia (**IF=9.7**).
 - *2025.02*: 🎉 Our paper about Delving into Instance Modeling for Weakly Supervised Video Anomaly Detection has been accepted to IEEE Transactions on Circuits and Systems for Video Technology (**IF=8.3**).
 - *2024.07*: 🎉 Our paper about Text-Driven Scene-Decoupled (TDSD) Weakly Supervised Video Anomaly Detection has been accepted to ACM Multimedia (MM) 2024.
 - *2024.07*: 🎉 Our paper about Event-Driven Weakly Supervised Video Anomaly Detection has been accepted to Image and Vision Computing.
